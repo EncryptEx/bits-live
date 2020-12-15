@@ -1,6 +1,6 @@
 <template>
   <div id="activities" class="under-header padding-bottom">
-    <div class="container">
+    <div class="container" style="text-align: justify;">
       <div class="panel large">
         <h1 class="activity-title">TALKS</h1>
       </div>
@@ -20,7 +20,7 @@
           </div> -->
         </div>
       </div>
-      <div class="panel">
+      <!-- <div class="panel">
         <h1 style="text-transform: uppercase;">TBD - Test mining</h1>
         <div class="margin-bottom text-centered">
           <p class="icon"><i class="fab fa-twitch" aria-hidden="true"></i></p>
@@ -29,11 +29,8 @@
         <div>
           <h3>Speaker: Martin Krallinger</h3>
           <p style="text-align: justify;">Description TBD</p>
-          <!-- <div style="text-align: center;">
-             <img src="/assets/img/live/deno.png" class="image" style="width: 50%; margin-top: 1.4em"/>
-          </div> -->
         </div>
-      </div>
+      </div> -->
       <div class="panel">
         <h1 style="text-transform: uppercase;">TBD </h1>
         <div class="margin-bottom text-centered">
@@ -74,18 +71,10 @@
             <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
             <span>team-building</span>
           </div>
-          <p class="margin-bottom">Si estás buscando un equipo o un nuevo miembro para tu equipo, ¡tenemos una actividad programada para ti! <br /> Empezará a las 12:15 y funcionará de la siguiente manera: </p>
-          <ul>
-            <li>Únete al servidor de discord y ve al canal de #teambuilding</li>
-            <li>Te haremos algunas preguntas, ¡tendrás que contestar al menos una!</li>
-            <ul>
-              <li>¿Alguna idea de proyecto? Una webapp, scrapper, un juego...</li>
-              <li>¿Algún interés? Backend, IA, aprender un nuevo lenguaje...</li>
-              <li>¿Habilidades? C, NodeJS, assembler...</li>
-            </ul>
-            <li>Dependiendo del número de personas interesadas, quizás te sugerimos que te unas a un canal de voz específico, así podréis hablar entre vosotros y crear un equipo o seguir buscando uno.</li>
-            <li>Si has estado en un canal específico, pero despuÉs de esto aún sigues buscando un equipo o alguien para tu actual equipo, ¡vuelve al canal de team building!</li>
-          </ul>
+          <p class="margin-bottom"> If you are looking for a team or a new member for your team, these is the activity you are looking for! Friday at 19:30!! </p>
+          <p class="margin-bottom"> Find the channel #teambuilding in the discord server. </p>
+          <p class="margin-bottom"> We will ask you for the challenge you are interested in and how you can contribute. </p>
+          <p class="margin-bottom"> Depending on your answers, we will look for some colleges with whom you can develop a project for the challenge and also, how to create with your team a private channel. </p>
         </div>
       </div>
       <div class="panel">
@@ -95,7 +84,7 @@
             <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
             <span>ucis-activity</span>
           </div>
-          <h3>Speaker: Ester i Clara</h3>
+          <h3>Speaker: Esther i Ariadna</h3>
           <p class="margin-bottom" style="text-align: justify;"> TBD - Description </p>
           <!-- <div style="text-align: center;">
             <img src="/assets/img/live/zumba.png" class="image" style="width: 100%; margin-top: 3em"/>
