@@ -1,0 +1,205 @@
+{
+	"version": 2,
+	"message": "",
+	"baseTimeOffset":"-120",
+	"countdownStart":"18/12/2020 19:00",
+	"days":
+	[
+		{
+			"name": "Friday",
+			"date":"18/12/2020",
+			"events":
+			[
+				{
+					"id": "0",
+					"title": "Check In",
+					"startHour": "17:00",
+					"endHour": "18:00",
+					"description": "Check In to Discord Server"
+				},
+				{
+					"id": "1",
+					"emoji": "🔗",
+					"title": "Opening Ceremony",
+					"startHour": "18:00",
+					"endHour": "19:30",
+					"description": "Opening"
+				},
+				{
+					"id": "2",
+					"title": "Hacking Start!!!",
+					"startHour": "19:00",
+					"description": "The hacking time starts"
+				},
+				{
+					"id": "3",
+					"title": "Team Building",
+					"startHour": "19:30",
+					"endHour": "20:00",
+					"description": "Are you looking for a team o for teammates? Join us on the Team Building activity"
+				},
+				{
+					"id": "4",
+					"title": "Dinner",
+					"startHour": "20:00",
+					"description": "Remember to eat something meanwhile you are attending the talks!!"
+				},
+				{
+					"id": "5",
+					"emoji": "🔗",
+					"title": "Talk 1",
+					"startHour": "20:00",
+					"endHour": "21:00",
+					"description": ""
+				},
+				{
+					"id": "6",
+					"emoji": "🔗",
+					"title": "Talk 2",
+					"startHour": "21:00",
+					"endHour": "22:00",
+					"description": ""
+				},
+				{
+					"id": "7",
+					"emoji": "🔗",
+					"title": "Talk 3",
+					"startHour": "22:00",
+					"endHour": "23:00",
+					"description": ""
+				},
+				{
+					"id": "8",
+					"title": "Let's play! Stop",
+					"startHour": "23:00",
+					"endHour": "23:30",
+					"description": ""
+				},
+				{
+					"id": "9",
+					"title": "Good night Hackers!",
+					"startHour": "23:30",
+					"description": "See you tomorrow"
+				}
+			]
+		},
+		{
+			"name":"Saturday",
+			"date":"19/12/2020",
+			"events":
+			[
+				{
+					"id": "10",
+					"title": "Good Morning Hackers!",
+					"startHour": "09:00",
+					"description": "Time to continue our hacking time!"
+				},
+				{
+					"id": "11",
+					"title": "Breakfast",
+					"startHour": "09:00",
+					"description": "Remember to eat something! Breakfast is the most important meal in of the day"
+				},
+				{
+					"id": "12",
+					"emoji": "🔗",
+					"title": "Talk 4",
+					"startHour": "10:00",
+					"endHour": "11:00",
+					"description": ""
+				},
+				{
+					"id": "13",
+					"title": "Activity",
+					"startHour": "11:00",
+					"endHour": "13:00",
+					"description": ""
+				},
+				{
+					"id": "14",
+					"title": "Lunch",
+					"startHour": "14:00",
+					"description": "Remember to have luch and move a bit from the computer!"
+				},
+				{
+					"id": "15",
+					"title": "Let's Play! Pinturillo",
+					"startHour": "15:00",
+					"endHour": "15:30",
+					"description": ""
+				},
+				{
+					"id": "16",
+					"title": "Dinner",
+					"startHour": "21:00",
+					"description": ""
+				},
+				{
+					"id": "17",
+					"title": "Let's play! Among us!",
+					"startHour": "23:00",
+					"endHour": "23:30",
+					"description": ""
+				},
+				{
+					"id": "18",
+					"title": "Good night Hackers!",
+					"startHour": "23:30",
+					"description": "See you tomorrow"
+				}
+			]
+		},
+		{
+			"name":"Sunday",
+			"date":"20/12/2020",
+			"events":
+			[
+				{
+					"id": "19",
+					"title": "Good Morning Hackers!",
+					"startHour": "09:00",
+					"description": "Time to continue our hacking time!"
+				},
+				{
+					"id": "20",
+					"title": "Breakfast",
+					"startHour": "09:00",
+					"description": "Remember to eat something! Breakfast is the most important meal in of the day"
+				},
+				{
+					"id": "21",
+					"title": "Hacking Ends",
+					"startHour": "12:00",
+					"description": "Remember to post your project on devpost or you don't be able to acces the prices!"
+				},
+				{
+					"id": "22",
+					"title": "Demo time",
+					"startHour": "12:30",
+					"endHour": "14:30",
+					"description": ""
+				},
+				{
+					"id": "23",
+					"title": "Lunch",
+					"startHour": "14:30",
+					"description": "Remember to have luch and move a bit before the closing ceremony starts!"
+				},
+				{
+					"id": "24",
+					"emoji": "🔗",
+					"title": "Closing ceremony",
+					"startHour": "15:30",
+					"endHour": "16:30",
+					"description": ""
+				},
+				{
+					"id": "25",
+					"title": "GoodBye",
+					"startHour": "16:30",
+					"description": "Thanks a lot to everyone to participate!"
+				}
+			]
+		}
+	]
+}
