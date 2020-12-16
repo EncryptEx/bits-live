@@ -51,7 +51,7 @@
       <div class="panel large no-margin" style="height: 100%">
         <h1>Spot de la Marató de TV3</h1>
         <div class="embed-container">
-          <iframe src="https://www.youtube.com/embed/YcDEur1IxCs" width="100%" height="100%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe src="https://www.youtube.com/embed/YcDEur1IxCs" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
     </div>
@@ -66,4 +66,18 @@ export default {
 </script>
 
 <style scoped>
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.embed{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 </style>
