@@ -9,14 +9,11 @@
           <p style="text-align: justify;"> <span>bits!createTeam [nameTeam]</span> (if you don't have team and you want to create one) </p><br/>
           <p style="text-align: justify;"> <span>bits!addToTeam [@personToAddToYourTeam]</span> (the user you want to add to the team must be logged in and with no team) </p>
           <h4>To use in random or memes channels (<i>Only if you try you will know what this do</i>)</h4>
-          <p><span>bits!cat</span></p><br/>
-          <p><span>bits!dog</span></p><br/>
-          <p><span>bits!parrot</span></p><br/>
-          <p><span>bits!biene</span></p><br/>
-          <p><span>bits!ping</span></p><br/>
-          <p><span>bits!proJoke</span></p><br/>
-          <p><span>bits!parJoke</span></p><br/>
-          <p><span>bits!joke</span></p>
+          <div>
+            <p><span>bits!cat</span>  <span>bits!dog</span>  <span>bits!parrot</span> </p><br/>
+            <p><span>bits!biene</span>  <span>bits!ping</span></p><br/>
+            <p><span>bits!proJoke</span> <span>bits!parJoke</span> <span>bits!joke</span></p>
+          </div>
         </div>
       </div>
       <div class="panel large">
