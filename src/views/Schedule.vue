@@ -20,7 +20,7 @@
                   <td><a href="https://www.twitch.tv/hackersupc">{{event.emoji}}</a></td>
                   <td>{{event.startHour}}</td>
                   <td>{{event.endHour}}</td>
-                  <td>{{event.title}}</td>
+                  <td class="when-small">{{event.title}}</td>
                   <td class="hide-when-small">{{event.description}}</td>
                 </tr>
               </tbody>
