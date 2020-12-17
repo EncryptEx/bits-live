@@ -34,7 +34,7 @@
       <div class="panel">
         <h1>How can I make a donation?</h1>
         <div>
-          <p class="margin-bottom">To donate you need to acces our <b><a href="https://www.fib.upc.edu/la-marato/donatiu.html" target="_blank">platform</a></b>, remember that doing a donation you are participating to the pizza draw.</p>
+          <p class="margin-bottom">To donate you need to acces our <b><a href="https://www.fib.upc.edu/la-marato/donatiu.html" target="_blank" class="external-link">platform</a></b>, remember that doing a donation you are participating to the pizza draw.</p>
         </div>
       </div>
       <div class="panel large">

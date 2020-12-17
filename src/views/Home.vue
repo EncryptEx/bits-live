@@ -9,10 +9,10 @@
             <h3 class="text-centered margin-bottom">Links</h3>
           </div>
           <div class="buttons margin-bottom">
-            <a target="_blank" href="https://www.twitch.tv/hackersupc">Talks in twitch</a>
+            <a target="_blank" href="https://www.twitch.tv/hackersupc" class="external-link">Talks in twitch</a>
           </div>
           <div class="buttons margin-bottom">
-            <a target="_blank" href="">Devpost</a>
+            <a target="_blank" href="" class="external-link">Devpost</a>
           </div>
           <p><b>FIB Students!</b> Remember that to get the 2 credits it's mandatory to upload the project to Devpost!</p>
         </div>
