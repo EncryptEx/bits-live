@@ -1,28 +1,18 @@
 <template>
   <div id="schedule" class="under-header padding-bottom">
     <div class="container">
-      <div class="panel large">
+      <div class="panel">
         <h1>Looking for similar patients: the AI Doctor House conquers severe COVID-19!</h1>
         <div class="text-centered">
           <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
           <span>similar-patients</span>
         </div>
+        <div>
+          <h3><a href="https://doi.org/10.5281/zenodo.4314709" target="_blank" class="external-link">Input data</a></h3>
+          <!-- <div class="embed-container">
+          </div> -->
+        </div>
         <div class="expl-container">
-          <p class="margin-bottom">There is a pressing need by healthcare professionals to access information relevant to clinical practice in a more effective way. Over 80% of clinically relevant data is essentially unstructured, mainly images like MRI and clinical texts.<br>
-          One of the challenges faced by doctors is finding patients and clinical cases that show particular similarities to a given case (similar symptoms, diagnosis, treatments, or other characteristics) amongst the rapidly growing amount of clinical records and medical publications and the complexity of the data. Detection of similarities among patients or groups of patients is key for evidence-based clinical practice, the selection of patients for clinical trials, prioritizing patients for vaccination and for understanding the variability in clinical outcomes.<br>
-          From a COVID-19 point of view, AI tools should distinguish between patients with and with no risk of a severe outcome, so that clinicians could intervene promptly. Specifically, this task aims to promote the development of systems able to detect similarities among a collection of clinical case texts.</p>
-          <div>
-            <h3 class="margin-bottom">Technological point of view</h3>
-            <p>The objective is to be able to compute and measure similarity between patients represented by their clinical case, that is, the text describing their medical condition, previous morbidities, medical tests and treatments performed, diagnosis or outcome. This very complex scenario can in principle be approached by a diversity of methodologies ranging from text similarity techniques used to detect plagiarism, clinical concept detection, or even more advanced semantic textual similarity strategies dealing with the meaning of natural language through AI.</p>
-          </div>
-          <div class="margin-bottom">
-            <h3 class="margin-bottom">HealthCare point of view</h3>
-            <p>Access to medically relevant information hidden in clinical texts is one of the principal challenges for healthcare professionals in the AI digital age. Questions such as which are the symptoms of patients with a worse outcome, given similar comorbidities, medications or procedures are very difficult to answer without systematically processing clinical texts. Even simpler, epidemiological questions like how many days have passed before COVID-19 symptoms started or if patients had travelled to certain geographical areas can only be answered efficiently by means of computational tools. Similarities between patients can aid prognosis, diagnosis and decision making, saving vital time to healthcare practitioners.</p>
-          </div>
-          <br>
-          <div class="margin-bottom text-centered">
-            <b>Proposed by:</b> <span>BSC</span>
-          </div>
           <div class="margin-bottom text-centered">
             <a href="https://www.bsc.es/" h-reflang="en" target="_blank" rel="sponsored">
               <img style="width: 25%;" loading="lazy" alt="BSC" src="assets/img/challenges/logo-bsc.png">
@@ -33,15 +23,123 @@
           </div>
         </div>
       </div>
-      <div class="panel large">
+      <div class="panel">
+        <h1>Clinical-microbiological characterisation of SARS-CoV-2 infection in the paediatric age</h1>
+        <div class="text-centered">
+          <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
+          <span>pediatric-age</span>
+        </div>
+        <div>
+          <h3><a href="data/COPEDICATClinicSympt_DATA_2020-12-17_1642.csv" target="_blank" class="external-link">Input data</a></h3>
+          <!-- <div class="embed-container">
+            <iframe src="https://www.youtube.com/embed/YcDEur1IxCs" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div> -->
+        </div>
+        <div class="expl-container">
+          <div class="margin-bottom text-centered">
+            <a>
+              <img style="width: 25%;" loading="lazy" alt="Copedicat" src="assets/img/challenges/logo-copedicat.png">
+            </a>
+            <a style="marginLeft: 20px" href="https://www.vallhebron.com/ca" h-reflang="en" target="_blank" rel="sponsored">
+              <img style="width: 25%;" loading="lazy" alt="Valldhebron" src="assets/img/challenges/logo-valldhebron.png">
+            </a>
+            <a style="marginLeft: 20px" href="https://biocomsc.upc.edu/en" h-reflang="en" target="_blank" rel="sponsored">
+              <img style="width: 20%;" loading="lazy" alt="bio" src="assets/img/challenges/logo-biocomsc.jpg">
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="panel">
+        <h1>Do you have COVID-19 cough? Help distinguishing which type of cough you have</h1>
+        <div class="text-centered">
+          <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
+          <span>covid-cough</span>
+        </div>
+        <div>
+          <h3><a href="https://b2sdata.upc.edu:5001/d/f/590044504787040823" target="_blank" class="external-link">Input data</a></h3>
+          <!-- <div class="embed-container">
+            <iframe src="https://www.youtube.com/embed/YcDEur1IxCs" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div> -->
+        </div>
+        <div class="expl-container">
+          <div class="margin-bottom text-centered">
+            <a href="https://creb.upc.edu/en" h-reflang="en" target="_blank" rel="sponsored">
+              <img style="width: 25%;" loading="lazy" alt="creb" src="assets/img/challenges/logo-creb.png">
+            </a>
+            <a style="marginLeft: 20px" href="http://b2slab.upc.edu/" h-reflang="en" target="_blank" rel="sponsored">
+              <img style="width: 25%;" loading="lazy" alt="b2slab" src="assets/img/challenges/logo-b2slab.png">
+            </a>
+            <a style="marginLeft: 20px" href="https://www.upc.edu/ccd/en" h-reflang="en" target="_blank" rel="sponsored">
+              <img style="width: 40%;" loading="lazy" alt="upc" src="assets/img/challenges/logo-upc.png">
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="panel">
+        <h1>COVIDTracking-Primary Health Care Centres: Help the front line of medical care!</h1>
+        <div class="text-centered">
+          <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
+          <span>tracking-primary-health</span>
+        </div>
+        <div>
+          <h3>No input data</h3>
+          <!-- <div class="embed-container">
+            <iframe src="https://www.youtube.com/embed/YcDEur1IxCs" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div> -->
+        </div>
+        <div class="expl-container">
+          <div class="margin-bottom text-centered">
+            <a href="https://atencioprimariaicsbcn.wordpress.com/capbesos/" h-reflang="en" target="_blank" rel="sponsored">
+              <img style="width: 8%;" loading="lazy" alt="creb" src="assets/img/challenges/logo-capbesos.png">
+            </a>
+            <a style="marginLeft: 20px" href="https://www.fib.upc.edu/" h-reflang="en" target="_blank" rel="sponsored">
+              <img style="width: 30%;" loading="lazy" alt="b2slab" src="assets/img/challenges/logo-FIB.jpg">
+            </a>
+            <a style="marginLeft: 20px" href="https://hackersatupc.org/" h-reflang="en" target="_blank" rel="sponsored">
+              <img style="width: 30%;" loading="lazy" alt="upc" src="assets/img/challenges/logo-hackersupc.png">
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="panel">
+        <h1>Covid-Tracking on Campus!</h1>
+        <div class="text-centered">
+          <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
+          <span>tracking-primary-health</span>
+        </div>
+        <div>
+          <h3>No input data</h3>
+          <!-- <div class="embed-container">
+            <iframe src="https://www.youtube.com/embed/YcDEur1IxCs" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div> -->
+        </div>
+        <div class="expl-container">
+          <div class="margin-bottom text-centered">
+            <a style="marginLeft: 20px" href="https://www.fib.upc.edu/" h-reflang="en" target="_blank" rel="sponsored">
+              <img style="width: 30%;" loading="lazy" alt="b2slab" src="assets/img/challenges/logo-FIB.jpg">
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="panel">
         <h1>Donatiu: Diu molt de tu!</h1>
         <div>
-          <p class="margin-bottom">Sí! Cada equip té el repte d'aconseguir donatius abans de la Hackathon. L'últim dia de la Hackathon publicarem els top ten, i després de la presentació dels projectes, obtindran un detall simbòlic (low cost, ja que busquem donatius :)) de l'organització de la Hackathon.</p>
-          <div class="margin-bottom text-centered">
-            <span><b>Proposat per:</b> Els organitzadors. </span>
+          <div class="text-centered">
+            <b><span><a href="https://www.fib.upc.edu/la-marato/donatiu.html" target="_blank" class="external-link">Donate</a></span></b>
           </div>
-          <div>
-            <p>És l’únic repte que tindrà un premi, simbòlic</p>
+          <h3>No input data</h3>
+          <!-- <div class="embed-container">
+            <iframe src="https://www.youtube.com/embed/YcDEur1IxCs" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div> -->
+        </div>
+        <div class="expl-container">
+          <div class="margin-bottom text-centered">
+            <a style="marginLeft: 20px" href="https://www.fib.upc.edu/" h-reflang="en" target="_blank" rel="sponsored">
+              <img style="width: 30%;" loading="lazy" alt="b2slab" src="assets/img/challenges/logo-FIB.jpg">
+            </a>
+            <a style="marginLeft: 20px" href="https://hackersatupc.org/" h-reflang="en" target="_blank" rel="sponsored">
+              <img style="width: 30%;" loading="lazy" alt="upc" src="assets/img/challenges/logo-hackersupc.png">
+            </a>
           </div>
         </div>
       </div>
@@ -56,4 +154,18 @@ export default {
 </script>
 
 <style scoped>
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.embed{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 </style>
