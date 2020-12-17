@@ -5,7 +5,7 @@
         <h1 class="activity-title">TALKS</h1>
       </div>
       <div class="panel">
-        <h1 style="text-transform: uppercase;">Refining the diagnosis</h1>
+        <h1 style="text-transform: uppercase;">Avoiding unnecessary testing on children...</h1>
         <div class="margin-bottom text-centered">
           <p class="icon"><i class="fab fa-twitch" aria-hidden="true"></i></p>
           <span><a target="_blank" href="https://www.twitch.tv/hackersupc">Twitch Channel</a></span>
