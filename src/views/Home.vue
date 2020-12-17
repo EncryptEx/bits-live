@@ -12,7 +12,7 @@
             <a target="_blank" href="https://www.twitch.tv/hackersupc">Talks in twitch</a>
           </div>
           <div class="buttons margin-bottom">
-            <a target="_blank" href="https://bitsxlamarato.devpost.com">Devpost</a>
+            <a target="_blank" href="">Devpost</a>
           </div>
           <p><b>FIB Students!</b> Remember that to get the 2 credits it's mandatory to upload the project to Devpost!</p>
         </div>
@@ -21,7 +21,8 @@
         <h1>Contact</h1>
         <div class="text-centered">
           <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
-          <span><a target="_blank" href="">Discord Server</a></span>
+          <!-- <span><a target="_blank" href="">Discord Server</a></span> -->
+          <span>Discord Server</span>
         </div>
         <div class="text-centered">
             <p class="icon"><i class="fa fa-envelope" aria-hidden="true"></i></p>
@@ -32,8 +33,8 @@
           <div class="buttons">
             <a class="fb" target="_blank" href="https://www.facebook.com/hackersupc"><i class="fab fa-facebook" aria-hidden="true"></i></a>
             <a class="tw" target="_blank" href="https://twitter.com/hackersupc"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-            <a class="ig" target="_blank" href="https://instagram.com/hackupc"><i class="fab fa-instagram" aria-hidden="true"></i></a>
-            <a class="yt" target="_blank" href="https://www.youtube.com/channel/UCiiRorGg59Xd5Sjj9bjIt-g"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+            <a class="ig" target="_blank" href="https://instagram.com/hackersupc"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+            <a class="yt" target="_blank" href="https://www.youtube.com/c/HackersUPC"><i class="fab fa-youtube" aria-hidden="true"></i></a>
             <a class="gt" target="_blank" href="https://github.com/hackupc"><i class="fab fa-github" aria-hidden="true"></i></a>
             <a class="me" target="_blank" href="https://medium.com/@hackupc"><i class="fab fa-medium" aria-hidden="true"></i></a>
           </div>
