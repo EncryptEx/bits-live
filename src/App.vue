@@ -29,7 +29,7 @@
             <router-link to="/schedule">Schedule</router-link>
           </li>
           <li :class="isActive('/donations')">
-            <router-link to="/donations">Donations</router-link>
+            <a href="https://www.fib.upc.edu/la-marato/donatiu.html" target="_blank" class="external-link">Donations</a>
           </li>
           <li :class="isActive('/discord')">
             <router-link to="/discord">Discord</router-link>
@@ -66,7 +66,7 @@
             <router-link to="/schedule">Schedule</router-link>
           </li>
           <li :class="isActive('/donations')">
-            <router-link to="/donations">Donations</router-link>
+            <a href="https://www.fib.upc.edu/la-marato/donatiu.html" target="_blank" class="external-link">Donations</a>
           </li>
           <li :class="isActive('/discord')">
             <router-link to="/discord">Discord</router-link>

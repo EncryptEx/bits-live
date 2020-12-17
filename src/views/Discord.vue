@@ -5,22 +5,15 @@
         <h1 style="text-transform: uppercase;">BitsBot Commands</h1>
         <div>
           <h4>For registration</h4>
-          <ul>
-            <li style="text-align: justify;"> <span>bits!login [RegisterEmail]</span> (checkin) </li>
-            <li style="text-align: justify;"> <span>bits!createTeam [nameTeam]</span> (if you don't have team and you want to create one) </li>
-            <li style="text-align: justify;"> <span>bits!addToTeam [@personToAddToYourTeam]</span> (the user you want to add to the team must be logged in and with no team) </li>
-          </ul>
+          <p style="text-align: justify;"> <span>bits!login [RegisterEmail]</span> (checkin) </p><br/>
+          <p style="text-align: justify;"> <span>bits!createTeam [nameTeam]</span> (if you don't have team and you want to create one) </p><br/>
+          <p style="text-align: justify;"> <span>bits!addToTeam [@personToAddToYourTeam]</span> (the user you want to add to the team must be logged in and with no team) </p>
           <h4>To use in random or memes channels (<i>Only if you try you will know what this do</i>)</h4>
-          <ul>
-            <li> <span>bits!cat</span> </li>
-            <li> <span>bits!dog</span> </li>
-            <li> <span>bits!parrot</span> </li>
-            <li> <span>bits!biene</span> </li>
-            <li> <span>bits!ping</span> </li>
-            <li> <span>bits!proJoke</span> </li>
-            <li> <span>bits!parJoke</span> </li>
-            <li> <span>bits!joke</span> </li>
-          </ul>
+          <div>
+            <p><span>bits!cat</span>  <span>bits!dog</span>  <span>bits!parrot</span> </p><br/>
+            <p><span>bits!biene</span>  <span>bits!ping</span></p><br/>
+            <p><span>bits!proJoke</span> <span>bits!parJoke</span> <span>bits!joke</span></p>
+          </div>
         </div>
       </div>
       <div class="panel large">
@@ -60,7 +53,7 @@
         <div style="text-align: justify;">
           <h3>Sponsors</h3>
           <p class="icon"><i class="fas fa-hashtag" aria-hidden="true"></i></p><b><span>hipeac</span></b> Are you looking for some job oportunities take a look on hipeac<br><br>
-          <p class="icon"><i class="fas fa-volume-up" aria-hidden="true"></i></p><b><span>hipeac</span></b> Channel to talk with hipeac members <br><br>
+          <p class="icon"><i class="fas fa-volume-up" aria-hidden="true"></i></p><b><span>hipeac</span></b> Channel to talk with hipeac members
         </div>
       </div>
       </div>
