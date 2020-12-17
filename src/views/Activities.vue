@@ -120,7 +120,7 @@ Are you ready to go into an ICU? If so, go ahead. </p>
             <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
             <span>play-area</span>
           </div>
-          <p class="margin-bottom" style="text-align: justify;">Description TBD</p>
+          <p class="margin-bottom" style="text-align: justify;">Are you the best at trivia? Join our Kahoot game and show off your skills, answering all types of questions! You can compete with other hackers and we will see who's gonna get to the podium...</p>
           <div style="text-align: center;">
             <img src="/assets/img/activities/kahoot.png" class="image" style="width: 40%; margin-top: 1.3em"/>
           </div>
@@ -133,7 +133,7 @@ Are you ready to go into an ICU? If so, go ahead. </p>
             <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
             <span>play-area</span>
           </div>
-          <p class="margin-bottom" style="text-align: justify;">Description TBD</p>
+          <p class="margin-bottom" style="text-align: justify;">Choose your colour and favourite hat and get ready for a game full of emotions! Go do your tasks and find the impostor before he finds you. Will you be able to save your crewmates? Or will you be the one in the vents...</p>
           <div style="text-align: center;">
             <img src="/assets/img/activities/amongus.gif" class="image" style="width: 50%; margin-top: 1.3em"/>
           </div>
