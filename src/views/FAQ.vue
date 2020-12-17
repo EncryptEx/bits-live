@@ -14,9 +14,9 @@
         </div>
       </div>
       <div class="panel">
-        <h1>I'm not registered and I want to participate</h1>
+        <h1>How can I make a donation?</h1>
         <div>
-          <p class="margin-bottom">Please send a mail to <a href="mailto:bitsxlamarato@fib.upc.edu" target="_blank">bitsxlamarato@fib.upc.edu</a> and we will give you a spot in our hackathon!</p>
+          <p class="margin-bottom">To donate you need to acces our <b><a href="https://www.fib.upc.edu/la-marato/donatiu.html" target="_blank" class="external-link">platform</a></b>, remember that doing a donation you are participating to the pizza draw.</p>
         </div>
       </div>
       <div class="panel large">
@@ -32,9 +32,9 @@
         </div>
       </div>
       <div class="panel">
-        <h1>How can I make a donation?</h1>
+        <h1>I'm not registered and I want to participate</h1>
         <div>
-          <p class="margin-bottom">To donate you need to acces our <b><a href="https://www.fib.upc.edu/la-marato/donatiu.html" target="_blank" class="external-link">platform</a></b>, remember that doing a donation you are participating to the pizza draw.</p>
+          <p class="margin-bottom">Please send a mail to <a href="mailto:bitsxlamarato@fib.upc.edu" target="_blank">bitsxlamarato@fib.upc.edu</a> with the following information: Name, Surname, Email, Ocupation, Country, Area of knowledge and Team (in case you have one) and we will give you a spot in our hackathon!</p>
         </div>
       </div>
       <div class="panel large">
