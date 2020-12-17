@@ -24,7 +24,7 @@
           <span><a target="_blank" href="https://www.twitch.tv/hackersupc">Twitch Channel</a></span>
         </div>
         <div>
-          <h3>Speaker: Guillem Bonilla i Daniel Marín</h3>
+          <h3>Speakers: Guillem Bonilla i Daniel Marín</h3>
           <p style="text-align: justify;">In this talk we will show and discuss tools and libraries to load and process audio files in Python. Once the files are loaded, we will show how to build machine learning models and how to evaluate the performance of the trained model using internal and external validation. In particular, we will illustrate the complete process using cough and non-cough audio files, import metadata to the model, and show the performance of the trained model when evaluated with new data. Finally, we we will show how to build a chatbot in Telegram that can be used to obtain information from the user and include this knowledge to the model.</p>
         </div>
       </div>
@@ -73,7 +73,6 @@
             <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
             <span>ucis-activity</span>
           </div>
-          <h3>Speaker: Esther i Ariadna</h3>
           <p class="margin-bottom" style="text-align: justify;"> Would you like to see through the eyes of a health professional working in the ICU or a patient about to be intubated due to COVID-19? Do you want to know how they feel and what they think? “COVID-19 and empathy: being in their shoes” is an activity that will allow you to get to know some of the situations that ICU nurses experience in their everyday lives and which some patients have to face. <br /><br />
 The aim of the activity is to promote empathy towards those whom COVID-19 touches personally in order to be able to see the world of COVID-19 from another perspective and to be able to develop technological tools focused on those people.<br /><br />
 The activity consists of viewing two videos, which are very short and are recorded in real hospital settings. One of the videos will allow you to see through the eyes of a nurse and the other one through those of a patient. Once the visualisation is over, you will need to fill in a short questionnaire that aims to encourage reflection and to make us question the ability to connect with the other and its impact.<br /><br />
@@ -91,7 +90,7 @@ Are you ready to go into an ICU? If so, go ahead. </p>
             <span>play-area</span>
           </div>
           <p class="margin-bottom" style="text-align: justify;">
-            ¿Te vas a convertir en el próximo Picasso? ¡Descubrelo con nosotros! Únete a la batalla del pinturillo y pasa un buen rato. En caso de que no sepas que es el pinturillo... consiste en adivinar qué dibujan tus oponentes antes de que se acabe el tiempo siendo el más rápido. Sólo pruébalo, la diversión está garantizada.
+            Are you becoming the next Picasso? Find it out with us! Join the battle of the “pinturillo” and have a good time. If you don't know what the “pinturillo” is ... it consists of being the fastest when guessing what your opponents are drawing before the time is over. Just try it out, fun is guaranteed.
           </p>
           <div style="text-align: center;">
             <img src="/assets/img/activities/pen.gif" class="image" style="width: 50%;"/>
@@ -106,7 +105,7 @@ Are you ready to go into an ICU? If so, go ahead. </p>
             <span>play-area</span>
           </div>
           <p class="margin-bottom" style="text-align: justify;">
-            ¡Pon a prueba tu vocabulario jugando al STOP! Descubre cuántas ciudades que empiezan por la letra A eres capaz de pensar en un tiempo récord. ¿O cuántas frutas que empiezan por la letra K puedes listar? ¡Demuestra tus habilidades ganando a tus oponentes en este divertido juego!
+            ¡Put your vocabulary to the test playing STOP! Find out how many cities starting with the letter A you can think of in record time. And/or, how many fruits beginning with the letter K can you list? Show your skills by defeating your opponents in this fun game!
           </p>
           <div style="text-align: center;">
             <img src="/assets/img/activities/stop.jpg" class="image" style="width: 50%; margin-top: 1.3em"/>
