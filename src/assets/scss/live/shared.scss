@@ -88,6 +88,8 @@ a {
 	}
 }
 
+.when-small { width: 20%; }
+
 @media (min-width: 720px) {
 	.under-header { padding-top: 150px; }
 
@@ -98,6 +100,8 @@ a {
 	.under-header { padding-top: 60px; }
 
 	.hide-when-small { display: none !important; }
+
+	.when-small { width: 60%; }
 
 	.events-fancy {
 		ul { padding-left: 25px !important; }
