@@ -31,6 +31,7 @@
         </div>
         <div>
           <h3><a href="data/COPEDICATClinicSympt_DATA_2020-12-17_1642.csv" target="_blank" class="external-link">Input data</a></h3>
+          <h3><a href="data/COPEDI-CAT_clinic_symptoms_REDCap.pdf" target="_blank" class="external-link">Data dictionary</a></h3>
           <!-- <div class="embed-container">
             <iframe src="https://www.youtube.com/embed/YcDEur1IxCs" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div> -->
