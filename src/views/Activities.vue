@@ -77,6 +77,11 @@
 The aim of the activity is to promote empathy towards those whom COVID-19 touches personally in order to be able to see the world of COVID-19 from another perspective and to be able to develop technological tools focused on those people.<br /><br />
 The activity consists of viewing two videos, which are very short and are recorded in real hospital settings. One of the videos will allow you to see through the eyes of a nurse and the other one through those of a patient. Once the visualisation is over, you will need to fill in a short questionnaire that aims to encourage reflection and to make us question the ability to connect with the other and its impact.<br /><br />
 Are you ready to go into an ICU? If so, go ahead. </p>
+          <div class="expl-container">
+            <div class="margin-bottom text-centered">
+              <img style="width: 40%;" loading="lazy" alt="b2slab" src="assets/img/activities/logo-activity.jpg">
+            </div>
+          </div>
         </div>
       </div>
        <div class="panel large">

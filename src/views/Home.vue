@@ -9,7 +9,7 @@
             <h3 class="text-centered margin-bottom">Links</h3>
           </div>
           <div class="buttons margin-bottom">
-            <a target="_blank" href="https://www.twitch.tv/hackersupc" class="external-link">Talks in twitch</a>
+            <a target="_blank" href="https://www.twitch.tv/hackersupc" class="external-link"><i class="fab fa-twitch" aria-hidden="true"></i> Talks in twitch</a>
           </div>
           <div class="buttons margin-bottom">
             <a target="_blank" href="" class="external-link">Devpost</a>
@@ -35,6 +35,7 @@
             <a class="tw" target="_blank" href="https://twitter.com/hackersupc"><i class="fab fa-twitter" aria-hidden="true"></i></a>
             <a class="ig" target="_blank" href="https://instagram.com/hackersupc"><i class="fab fa-instagram" aria-hidden="true"></i></a>
             <a class="yt" target="_blank" href="https://www.youtube.com/c/HackersUPC"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+            <a class="yt" target="_blank" href="https://www.twitch.tv/hackersupc"><i class="fab fa-twitch" aria-hidden="true"></i></a>
             <a class="gt" target="_blank" href="https://github.com/hackupc"><i class="fab fa-github" aria-hidden="true"></i></a>
             <a class="me" target="_blank" href="https://medium.com/@hackupc"><i class="fab fa-medium" aria-hidden="true"></i></a>
           </div>

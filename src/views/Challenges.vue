@@ -135,13 +135,29 @@
         <div class="expl-container">
           <div class="margin-bottom text-centered">
             <a style="marginLeft: 20px" href="https://www.fib.upc.edu/" h-reflang="en" target="_blank" rel="sponsored">
-              <img style="width: 30%;" loading="lazy" alt="b2slab" src="assets/img/challenges/logo-FIB.jpg">
+              <img style="width: 20%;" loading="lazy" alt="b2slab" src="assets/img/challenges/logo-FIB.jpg">
             </a>
             <a style="marginLeft: 20px" href="https://hackersatupc.org/" h-reflang="en" target="_blank" rel="sponsored">
-              <img style="width: 30%;" loading="lazy" alt="upc" src="assets/img/challenges/logo-hackersupc.png">
+              <img style="width: 20%;" loading="lazy" alt="upc" src="assets/img/challenges/logo-hackersupc.png">
+            </a>
+            <a style="marginLeft: 20px" href="https://www.bsc.es/" h-reflang="en" target="_blank" rel="sponsored">
+              <img style="width: 15%;" loading="lazy" alt="BSC" src="assets/img/challenges/logo-bsc.png">
+            </a>
+            <a style="marginLeft: 20px" href="https://www.fibalumni.net/" h-reflang="en" target="_blank" rel="sponsored">
+              <img style="width: 20%;" loading="lazy" alt="upc" src="assets/img/challenges/logo-fibalumni.png">
             </a>
           </div>
         </div>
+      </div>
+      <div class="panel large">
+        <h1><a href="https://www.fib.upc.edu/en/la-marato" target="_blank" class="external-link">All challenge descriptions</a></h1>
+      </div>
+      <div class="panel large">
+        <h1>Acces to Marenostrum+Power9 and GPU</h1>
+        <p>
+          <b><a href="assets/data/MachineInformation_only.pdf" target="_blank" class="external-link">Basic information</a></b> <br/>
+          If you want access contact a organizer in the <span>#help</span> channel on discord.
+        </p>
       </div>
     </div>
   </div>
