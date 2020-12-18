@@ -67,7 +67,7 @@
         </div>
       </div>
       <div class="panel large">
-        <h1>TBD - Tematica UCIs</h1>
+        <h1>COVID-19 and empathy: being in their shoes</h1>
         <div>
           <div class="margin-bottom text-centered">
             <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
