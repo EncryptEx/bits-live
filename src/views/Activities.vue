@@ -2,41 +2,94 @@
   <div id="activities" class="under-header padding-bottom">
     <div class="container" style="text-align: justify;">
       <div class="panel large">
+        <h1 class="activity-title">ACTIVITIES</h1>
+      </div>
+      <!-- <div class="panel large">
+        <h1>TEAM BUILDING</h1>
+        <div>
+          <div class="margin-bottom text-centered">
+            <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
+            <span>team-building</span>
+          </div>
+          <p class="margin-bottom"> If you are looking for a team or a new member for your team, these is the activity you are looking for! Friday at 19:30!! </p>
+          <p class="margin-bottom"> Find the channel #teambuilding in the discord server. </p>
+          <p class="margin-bottom"> We will ask you for the challenge you are interested in and how you can contribute. </p>
+          <p class="margin-bottom"> Depending on your answers, we will look for some colleges with whom you can develop a project for the challenge and also, how to create with your team a private channel. </p>
+        </div>
+      </div> -->
+      <div class="panel large">
+        <h1>COVID-19 and empathy: being in their shoes</h1>
+        <div>
+          <!-- <div class="margin-bottom text-centered">
+            <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
+            <span>ucis-activity</span>
+          </div> -->
+          <p class="margin-bottom" style="text-align: justify;"> Would you like to see through the eyes of a health professional working in the ICU or a patient about to be intubated due to COVID-19? Do you want to know how they feel and what they think? “COVID-19 and empathy: being in their shoes” is an activity that will allow you to get to know some of the situations that ICU nurses experience in their everyday lives and which some patients have to face. <br /><br />
+The aim of the activity is to promote empathy towards those whom COVID-19 touches personally in order to be able to see the world of COVID-19 from another perspective and to be able to develop technological tools focused on those people.<br /><br /></p>
+          <h3>Activity steps:</h3>
+          <p>
+            1) Take a look on the video that will allow you to see through the eyes of a nurse.<br/><br/>
+            2) Take a look on the video that will allow you to see through the eyes of a patient.<br/><br/>
+            3) Fill in a <a href="https://forms.gle/x8zX7FaSfUtogtTK9" target="_blank" class="external-link">short questionary</a> that aims to encourage reflection and to make us question the ability to connect with the other and its impact.<br/><br/>
+            Are you ready to go into an ICU? If so, go ahead.
+          </p>
+
+          <h3>Nurse eyes:</h3>
+          <div class="embed-container">
+            <iframe src="https://www.youtube.com/embed/kh-xJpuB_qQ" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div><br/>
+          <h3>Patient eyes:</h3>
+          <div class="embed-container">
+            <iframe src="https://www.youtube.com/embed/DfR0CW99d-w" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div> <br/>
+          <h2><a href="https://forms.gle/x8zX7FaSfUtogtTK9" target="_blank" class="external-link">Short Questionary</a></h2> <br/>
+          <div class="expl-container">
+            <div class="margin-bottom text-centered">
+              <img style="width: 40%;" loading="lazy" alt="b2slab" src="assets/img/activities/logo-activity.jpg">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="panel large">
         <h1 class="activity-title">TALKS</h1>
       </div>
       <div class="panel">
         <h1 style="text-transform: uppercase;">Avoiding unnecessary testing on children...</h1>
-        <div class="margin-bottom text-centered">
+        <!-- <div class="margin-bottom text-centered">
           <p class="icon"><i class="fab fa-twitch" aria-hidden="true"></i></p>
           <span><a target="_blank" href="https://www.twitch.tv/hackersupc">Twitch Channel</a></span>
-        </div>
+        </div> -->
         <div>
           <h3>Speaker: Toni Soriano</h3>
-          <p style="text-align: justify;">
-            Children with COVID-19 have clinical manifestations that are often difficult to differentiate from those of other viral infections that affect the respiratory system, such as the flu. Through clinical data collected by more than 120 pediatricians in Catalonia we are seeking to identify which symptoms can predict that a child has COVID and which of them have not been connected to this disease. With your collaboration, we will be able to save many unnecessary tests on those boys and girls and to generate an algorithm or clinical score that allows us to identify properly each of them. We can make it! We are convinced that you will help paediatricians in Catalonia and around the world to work better in the future.
-          </p>
+          <div class="embed-container">
+            <iframe src="https://www.youtube.com/embed/IN48ZgR0nGk" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
         </div>
       </div>
       <div class="panel">
         <h1 style="text-transform: uppercase;">File processing and machine learning for audio classification using Python</h1>
-        <div class="margin-bottom text-centered">
+        <!-- <div class="margin-bottom text-centered">
           <p class="icon"><i class="fab fa-twitch" aria-hidden="true"></i></p>
           <span><a target="_blank" href="https://www.twitch.tv/hackersupc">Twitch Channel</a></span>
-        </div>
+        </div> -->
         <div>
           <h3>Speakers: Guillem Bonilla i Daniel Marín</h3>
-          <p style="text-align: justify;">In this talk we will show and discuss tools and libraries to load and process audio files in Python. Once the files are loaded, we will show how to build machine learning models and how to evaluate the performance of the trained model using internal and external validation. In particular, we will illustrate the complete process using cough and non-cough audio files, import metadata to the model, and show the performance of the trained model when evaluated with new data. Finally, we we will show how to build a chatbot in Telegram that can be used to obtain information from the user and include this knowledge to the model.</p>
+          <div class="embed-container">
+            <iframe src="https://www.youtube.com/embed/b-3p2qxslws" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
         </div>
       </div>
       <div class="panel">
         <h1 style="text-transform: uppercase;">Language technologies and AI applied to health and medical data</h1>
-        <div class="margin-bottom text-centered">
+        <!-- <div class="margin-bottom text-centered">
           <p class="icon"><i class="fab fa-twitch" aria-hidden="true"></i></p>
           <span><a target="_blank" href="https://www.twitch.tv/hackersupc">Twitch Channel</a></span>
-        </div>
+        </div> -->
         <div>
           <h3>Speaker: Salvador Lima</h3>
-          <p style="text-align: justify;">When processing text, it is often not enough to simply extract the events found in the text. There is meaning hidden in plain view in the sentence, acting as modifiers of the information found. Recognising what events are negated or uncertain can radically change everything, and in clinical texts it can be critical for decision making and diferential diagnosis. <br /> <br /> Also, the presenter will point you to a youtube channel with a few more talks that you can look at and ask for any doubt you have.</p>
+          <div class="embed-container">
+            <iframe src="https://www.youtube.com/embed/fwdSemp0eqI" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
         </div>
       </div>
       <div class="panel">
@@ -51,40 +104,6 @@
         </div>
       </div>
       <div class="panel large">
-        <h1 class="activity-title">ACTIVITIES</h1>
-      </div>
-      <div class="panel large">
-        <h1>TEAM BUILDING</h1>
-        <div>
-          <div class="margin-bottom text-centered">
-            <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
-            <span>team-building</span>
-          </div>
-          <p class="margin-bottom"> If you are looking for a team or a new member for your team, these is the activity you are looking for! Friday at 19:30!! </p>
-          <p class="margin-bottom"> Find the channel #teambuilding in the discord server. </p>
-          <p class="margin-bottom"> We will ask you for the challenge you are interested in and how you can contribute. </p>
-          <p class="margin-bottom"> Depending on your answers, we will look for some colleges with whom you can develop a project for the challenge and also, how to create with your team a private channel. </p>
-        </div>
-      </div>
-      <div class="panel large">
-        <h1>COVID-19 and empathy: being in their shoes</h1>
-        <div>
-          <div class="margin-bottom text-centered">
-            <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
-            <span>ucis-activity</span>
-          </div>
-          <p class="margin-bottom" style="text-align: justify;"> Would you like to see through the eyes of a health professional working in the ICU or a patient about to be intubated due to COVID-19? Do you want to know how they feel and what they think? “COVID-19 and empathy: being in their shoes” is an activity that will allow you to get to know some of the situations that ICU nurses experience in their everyday lives and which some patients have to face. <br /><br />
-The aim of the activity is to promote empathy towards those whom COVID-19 touches personally in order to be able to see the world of COVID-19 from another perspective and to be able to develop technological tools focused on those people.<br /><br />
-The activity consists of viewing two videos, which are very short and are recorded in real hospital settings. One of the videos will allow you to see through the eyes of a nurse and the other one through those of a patient. Once the visualisation is over, you will need to fill in a short questionnaire that aims to encourage reflection and to make us question the ability to connect with the other and its impact.<br /><br />
-Are you ready to go into an ICU? If so, go ahead. </p>
-          <div class="expl-container">
-            <div class="margin-bottom text-centered">
-              <img style="width: 40%;" loading="lazy" alt="b2slab" src="assets/img/activities/logo-activity.jpg">
-            </div>
-          </div>
-        </div>
-      </div>
-       <div class="panel large">
         <h1 class="activity-title">GAMES</h1>
       </div>
       <div class="panel">
@@ -154,4 +173,18 @@ export default {
 </script>
 
 <style scoped>
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.embed{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 </style>
