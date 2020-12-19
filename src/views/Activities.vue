@@ -94,13 +94,15 @@ The aim of the activity is to promote empathy towards those whom COVID-19 touche
       </div>
       <div class="panel">
         <h1 style="text-transform: uppercase;">Applications of Digital Contact Tracing</h1>
-        <div class="margin-bottom text-centered">
+        <!-- <div class="margin-bottom text-centered">
           <p class="icon"><i class="fab fa-twitch" aria-hidden="true"></i></p>
           <span><a target="_blank" href="https://www.twitch.tv/hackersupc">Twitch Channel</a></span>
-        </div>
+        </div> -->
         <div>
           <h3>Speaker: Jorge Garcia</h3>
-          <p style="text-align: justify;">The talk will be about the usefulness of DCT applications to fight the COVID-19 pandemic, which are the technologies used and aspects you should take care about privacy, security and distance measures. We will also talk about protocols DP3T/GAEN, ROBERT, IDPT, DESIRE, and which is the role of Google and Apple. Finally, we will talk about how to improve the effectiveness of these systems.</p>
+          <div class="embed-container">
+            <iframe src="https://www.youtube.com/embed/uXhMVeOkhbk" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
         </div>
       </div>
       <div class="panel large">
