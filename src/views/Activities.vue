@@ -30,7 +30,7 @@ The aim of the activity is to promote empathy towards those whom COVID-19 touche
           <p>
             1) Take a look on the video that will allow you to see through the eyes of a nurse.<br/><br/>
             2) Take a look on the video that will allow you to see through the eyes of a patient.<br/><br/>
-            3) Fill in a <a href="https://forms.gle/x8zX7FaSfUtogtTK9" target="_blank" class="external-link">short questionary</a> that aims to encourage reflection and to make us question the ability to connect with the other and its impact.<br/><br/>
+            3) Fill in a <a href="https://forms.gle/rgMt9KnEaS6AtnN59" target="_blank" class="external-link">short questionary</a> that aims to encourage reflection and to make us question the ability to connect with the other and its impact.<br/><br/>
             Are you ready to go into an ICU? If so, go ahead.
           </p>
 
@@ -42,7 +42,7 @@ The aim of the activity is to promote empathy towards those whom COVID-19 touche
           <div class="embed-container">
             <iframe src="https://www.youtube.com/embed/DfR0CW99d-w" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div> <br/>
-          <h2><a href="https://forms.gle/x8zX7FaSfUtogtTK9" target="_blank" class="external-link">Short Questionary</a></h2> <br/>
+          <h2><a href="https://forms.gle/rgMt9KnEaS6AtnN59" target="_blank" class="external-link">Short Questionary</a></h2> <br/>
           <div class="expl-container">
             <div class="margin-bottom text-centered">
               <img style="width: 40%;" loading="lazy" alt="b2slab" src="assets/img/activities/logo-activity.jpg">
