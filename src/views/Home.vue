@@ -12,7 +12,7 @@
             <a target="_blank" href="https://www.twitch.tv/hackersupc" class="external-link"><i class="fab fa-twitch" aria-hidden="true"></i> Talks in twitch</a>
           </div>
           <div class="buttons margin-bottom">
-            <a target="_blank" href="" class="external-link">Devpost</a>
+            <a target="_blank" href="https://bitsxlamarato-2020.devpost.com/" class="external-link">Devpost</a>
           </div>
           <p><b>FIB Students!</b> Remember that to get the 2 credits it's mandatory to upload the project to Devpost!</p>
         </div>
