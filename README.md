@@ -1,4 +1,6 @@
-# bits-live
+# bitsxlaMarato 2020 live page
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/71c013e3-dd84-4bc9-b55e-548fd0b8666d/deploy-status)](https://app.netlify.com/sites/bits-live-2020/deploys) [![Build Status](https://travis-ci.com/hackupc/bits-live-2020.svg?branch=master)](https://travis-ci.com/hackupc/bits-live-2020)
 
 ![HackUPC live preview](bitsthumbnail.png)
 
