@@ -8,20 +8,22 @@
             <table>
               <thead>
                 <tr>
-                  <th></th>
-                  <th>Start</th>
-                  <th>End</th>
-                  <th>Title</th>
-                  <th class="hide-when-small">Description</th>
+                  <th>Comença</th>
+                  <th>Acaba</th>
+                  <th>Títol</th>
+                  <th>Lleida</th>
+                  <th>Barcelona</th>
+                  <th>Online</th>
                 </tr>
               </thead>
               <tbody>
                 <tr v-for="event in day.events" :key="event.id" :class="hasHappened(event.startTmsp)">
-                  <td><a href="https://www.twitch.tv/hackersupc">{{event.emoji}}</a></td>
                   <td>{{event.startHour}}</td>
                   <td>{{event.endHour}}</td>
                   <td class="when-small">{{event.title}}</td>
-                  <td class="hide-when-small">{{event.description}}</td>
+                  <td>{{event.lleida}}</td>
+                  <td>{{event.bcn}}</td>
+                  <td>{{event.online}}</td>
                 </tr>
               </tbody>
             </table>

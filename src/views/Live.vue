@@ -84,6 +84,7 @@ export default {
               startHour: event.startHour,
               endHour: event.endHour,
               locationId: event.locationId,
+              localization: event.localization,
               title: event.title,
               subscribed: this.subscribed[event.id] ? 'subscribed' : '',
             });
