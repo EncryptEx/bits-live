@@ -29,10 +29,7 @@
             <router-link to="/schedule">Schedule</router-link>
           </li>
           <li :class="isActive('/donations')">
-            <a href="https://www.fib.upc.edu/la-marato/donatiu.html" target="_blank" class="external-link">Donations</a>
-          </li>
-          <li :class="isActive('/discord')">
-            <router-link to="/discord">Discord</router-link>
+            <a href="https://www.reptesperlamarato.cat/reto/bitsxlamarato" target="_blank" class="external-link">Donatius</a>
           </li>
           <li :class="isActive('/challenges')">
             <router-link to="/challenges">Challenges</router-link>
@@ -45,9 +42,6 @@
           </li>
           <li :class="isActive('/faq')">
             <router-link to="/faq">FAQ</router-link>
-          </li>
-          <li :class="isActive('/judging')">
-            <router-link to="/judging">Judging</router-link>
           </li>
         </ul>
       </nav>
@@ -66,10 +60,7 @@
             <router-link to="/schedule">Schedule</router-link>
           </li>
           <li :class="isActive('/donations')">
-            <a href="https://www.fib.upc.edu/la-marato/donatiu.html" target="_blank" class="external-link">Donations</a>
-          </li>
-          <li :class="isActive('/discord')">
-            <router-link to="/discord">Discord</router-link>
+            <a href="https://www.reptesperlamarato.cat/reto/bitsxlamarato" target="_blank" class="external-link">Donatius</a>
           </li>
           <li @click="toggleFullscreen" id="countdown-li">
             <Countdown/>
@@ -85,9 +76,6 @@
           </li>
           <li :class="isActive('/faq')">
             <router-link to="/faq">FAQ</router-link>
-          </li>
-          <li :class="isActive('/judging')">
-            <router-link to="/judging">Judging</router-link>
           </li>
         </ul>
       </nav>
