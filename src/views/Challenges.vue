@@ -1,168 +1,104 @@
 <template>
   <div id="schedule" class="under-header padding-bottom">
     <div class="container">
+      <div class="panel large">
+        <h1><a href="https://www.fib.upc.edu/ca/la-marato/" target="_blank" class="external-link" style="color: #dddddd">All challenge descriptions</a></h1>
+      </div>
       <div class="panel">
-        <h1>Looking for similar patients: the AI Doctor House conquers severe COVID-19!</h1>
+        <h1>A cavall!</h1>
         <div class="text-centered">
-          <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
-          <span>similar-patients</span>
+          <p class="icon"><i class="fab fa-slack" aria-hidden="true"></i></p>
+          <span>cavall</span>
         </div>
-        <div>
+        <p>La Fundació La Manreana vol complementar la intervenció psicoeducativa assistida amb cavall amb les TIC en períodes de confinament, malaltia o impossibilitat d'assistir a la teràpia eqüestre, l'usuari tingui una eina que l'ajudi a compensar i, fins i tot, de comunicació amb nosaltres.</p>
+        <!--<div>
           <h3><a href="https://doi.org/10.5281/zenodo.4314709" target="_blank" class="external-link">Input data</a></h3>
           <h3><a href="data/AIDoctor_info.pdf" target="_blank" class="external-link">More information!</a></h3>
           <h3><a href="https://youtube.com/playlist?list=PL5uSCzf1azhBeVCHyswazImBNpIW8gYTD" target="_blank" class="external-link">YouTube Channel with more information</a></h3>
           <div class="embed-container">
             <iframe src="https://www.youtube.com/embed/XmMq8xEMuLQ" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
-        </div>
-        <!-- <div class="expl-container">
+        </div>-->
+        <div class="expl-container">
           <div class="margin-bottom text-centered">
-            <a href="https://www.bsc.es/" h-reflang="en" target="_blank" rel="sponsored">
-              <img style="width: 25%;" loading="lazy" alt="BSC" src="assets/img/challenges/logo-bsc.png">
-            </a>
-            <a style="marginLeft: 20px">
-              <img style="width: 12%;" loading="lazy" alt="planTL" src="assets/img/challenges/logo_plantl.png">
+            <a href="https://fundaciolamanreana.org" target="_blank" rel="sponsored">
+              <img style="width: 30%;" loading="lazy" alt="manreana" src="assets/img/challenges/logo-manreana.png">
             </a>
           </div>
-        </div> -->
+        </div>
       </div>
       <div class="panel">
-        <h1>Clinical-microbiological characterisation of SARS-CoV-2 infection in the paediatric age</h1>
+        <h1>Eina de Suport per la Planificació de les Tasques Acadèmiques</h1>
         <div class="text-centered">
-          <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
-          <span>pediatric-age</span>
+          <p class="icon"><i class="fab fa-slack" aria-hidden="true"></i></p>
+          <span>planificacio-tasques</span>
         </div>
-        <div>
+        <!--<div>
           <h3><a href="data/COPEDICATClinicSympt_DATA_2020-12-17_1642.csv" target="_blank" class="external-link">Input data</a></h3>
           <h3><a href="data/COPEDI-CAT_clinic_symptoms_REDCap.pdf" target="_blank" class="external-link">Data dictionary</a></h3>
           <div class="embed-container">
             <iframe src="https://www.youtube.com/embed/rY_rAyjO6Nw" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
-        </div>
-        <!-- <div class="expl-container">
+        </div>-->
+        <p>
+          El Programa MeetUp està en la 5à Edició i té per objectiu fer un seguiment dels progressos i dificultats dels estudiants amb Trastorn de l’Espectre Autista (TEA) que cursen estudis a la UPC.
+        </p>
+        <p>
+          El Programa MeetUp fa sessions mensuals síncrones on es tracten i donen eines per tal d’obtenir resultats exitosos en els estudis cursats a la UPC. El Programa ha comptat amb la participació d’entre 10 i 44 estudiants en cada edició (en progressió creixent, el curs 21-22 tenim 44 estudiants inscrits).
+        </p>
+        <div class="expl-container">
           <div class="margin-bottom text-centered">
             <a>
-              <img style="width: 25%;" loading="lazy" alt="Copedicat" src="assets/img/challenges/logo-copedicat.png">
-            </a>
-            <a style="marginLeft: 20px" href="https://www.vallhebron.com/ca" h-reflang="en" target="_blank" rel="sponsored">
-              <img style="width: 25%;" loading="lazy" alt="Valldhebron" src="assets/img/challenges/logo-valldhebron.png">
-            </a>
-            <a style="marginLeft: 20px" href="https://biocomsc.upc.edu/en" h-reflang="en" target="_blank" rel="sponsored">
-              <img style="width: 20%;" loading="lazy" alt="bio" src="assets/img/challenges/logo-biocomsc.jpg">
+              <img style="width: 30%;" loading="lazy" alt="meetup" src="assets/img/challenges/logo-meetup.png">
             </a>
           </div>
-        </div> -->
+        </div>
       </div>
       <div class="panel">
-        <h1>Do you have COVID-19 cough? Help distinguishing which type of cough you have</h1>
+        <h1>Interacció de proteïnes. Ens fiquem d’acord?</h1>
         <div class="text-centered">
-          <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
-          <span>covid-cough</span>
+          <p class="icon"><i class="fab fa-slack" aria-hidden="true"></i></p>
+          <span>proteines</span>
         </div>
-        <div>
-          <h3><a href="https://b2sdata.upc.edu:5001/d/f/590044504787040823" target="_blank" class="external-link">Input data</a></h3>
-          <h3><a href="https://github.com/b2slab/covidscipy2020/tree/mainbranch/HACKATHON%202020" target="_blank" class="external-link">Useful codes</a></h3>
-          <div class="embed-container">
-            <iframe src="https://www.youtube.com/embed/InlBAJF8Gso" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          </div>
-        </div>
-        <!-- <div class="expl-container">
-          <div class="margin-bottom text-centered">
-            <a href="https://creb.upc.edu/en" h-reflang="en" target="_blank" rel="sponsored">
-              <img style="width: 25%;" loading="lazy" alt="creb" src="assets/img/challenges/logo-creb.png">
-            </a>
-            <a style="marginLeft: 20px" href="http://b2slab.upc.edu/" h-reflang="en" target="_blank" rel="sponsored">
-              <img style="width: 25%;" loading="lazy" alt="b2slab" src="assets/img/challenges/logo-b2slab.png">
-            </a>
-            <a style="marginLeft: 20px" href="https://www.upc.edu/ccd/en" h-reflang="en" target="_blank" rel="sponsored">
-              <img style="width: 40%;" loading="lazy" alt="upc" src="assets/img/challenges/logo-upc.png">
-            </a>
-          </div>
-        </div> -->
-      </div>
-      <div class="panel">
-        <h1>COVIDTracking-Primary Health Care Centres: Help the front line of medical care!</h1>
-        <div class="text-centered">
-          <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
-          <span>tracking-primary-health</span>
-        </div>
-        <div>
-          <h3>No input data</h3>
-          <div class="embed-container">
-            <iframe src="https://www.youtube.com/embed/sj_Lyo-ayQU" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          </div>
-        </div>
-        <!-- <div class="expl-container">
-          <div class="margin-bottom text-centered">
-            <a href="https://atencioprimariaicsbcn.wordpress.com/capbesos/" h-reflang="en" target="_blank" rel="sponsored">
-              <img style="width: 8%;" loading="lazy" alt="creb" src="assets/img/challenges/logo-capbesos.png">
-            </a>
-            <a style="marginLeft: 20px" href="https://www.fib.upc.edu/" h-reflang="en" target="_blank" rel="sponsored">
-              <img style="width: 30%;" loading="lazy" alt="b2slab" src="assets/img/challenges/logo-FIB.jpg">
-            </a>
-            <a style="marginLeft: 20px" href="https://hackersatupc.org/" h-reflang="en" target="_blank" rel="sponsored">
-              <img style="width: 30%;" loading="lazy" alt="upc" src="assets/img/challenges/logo-hackersupc.png">
-            </a>
-          </div>
-        </div> -->
-      </div>
-      <div class="panel">
-        <h1>Covid-Tracking on Campus!</h1>
-        <div class="text-centered">
-          <p class="icon"><i class="fab fa-discord" aria-hidden="true"></i></p>
-          <span>tracking-primary-health</span>
-        </div>
-        <div>
+        <!--<div>
           <h3>No input data</h3>
           <div class="embed-container">
             <iframe src="https://www.youtube.com/embed/FQzpNFU6TNs" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
-        </div>
-        <!-- <div class="expl-container">
+        </div>-->
+        <p>
+          L'esquizofrènia, bipolaritat i depressió són malalties mentals que afecten a més del 25% de la població al llarg de la seva vida. Actualment s’ha aconseguit establir la relació entre algunes de les interaccions proteïna-proteïna (PPIs del anglès protein-protein interactions) involucrades en aquestes malalties. No obstant, per la majoria d’aquestes interaccions no se’n té una estructura experimental del complex que formen les dues proteïnes interactuants, limitant així l’estudi de les PPI. Per aquest motiu són necessaris programes de modelatge l’acoblament entre aquestes proteïnes. Malgrat això, aquests programes no són (en general) capaços d’ordenar per rellevància les diferents estructures obtingudes de manera acurada. A més a més, les mètriques que els programes per classificar les millors i pitjors prediccions no són comparables entre elles.
+        </p>
+        <p>
+          En aquest context, aquest repte té com a objectiu obtenir algoritmes d’anàlisis per tal de fer un consens entre els diferents programes de modelatge computacional d’acoblament (docking) de proteïna-proteïna a nivell estructural.
+        </p>
+        <div class="expl-container">
           <div class="margin-bottom text-centered">
-            <a style="marginLeft: 20px" href="https://www.fib.upc.edu/" h-reflang="en" target="_blank" rel="sponsored">
-              <img style="width: 30%;" loading="lazy" alt="b2slab" src="assets/img/challenges/logo-FIB.jpg">
+            <a href="https://www.bsc.es/" target="_blank" rel="sponsored">
+              <img style="width: 30%;" loading="lazy" alt="bsc" src="assets/img/challenges/logo-bsc.png">
+            </a>
+            <a style="marginLeft: 20px" href="https://www.nostrumbiodiscovery.com/" target="_blank" rel="sponsored">
+              <img style="width: 30%;" loading="lazy" alt="nostrum" src="assets/img/challenges/logo-nostrum.png">
             </a>
           </div>
-        </div> -->
+        </div>
       </div>
       <div class="panel">
-        <h1>Donatiu: Diu molt de tu!</h1>
-        <div>
-          <div class="text-centered">
-            <b><span><a href="https://www.fib.upc.edu/la-marato/donatiu.html" target="_blank" class="external-link">Donate</a></span></b>
-          </div>
-          <h3>No input data</h3>
-          <div class="embed-container">
-            <iframe src="https://www.youtube.com/embed/g9RpYlUZ_AU" class="embed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <h1>M’estimo i m’animo</h1>
+        <div class="text-centered">
+          <p class="icon"><i class="fab fa-slack" aria-hidden="true"></i></p>
+          <span>estimo-animo</span>
+        </div>
+        <p>
+          Com diuen les Oques Grasses «però no pots creure en tu si no t’estimes tu». Amb aquest repte busquem alguna forma que ajudi a una persona a que es pugui comunicar amb si mateixa, que es pugui donar ànims, estimar-se i animar-se en moments crítics o baixos. Aquesta eina també pot tenir la possibilitat de detectar bon humor o mal humor, i és clar, l’eina podria fins i tot ajudar a detectar problemes i reaccionar.
+        </p>
+        <div class="expl-container">
+          <div class="margin-bottom text-centered">
+            <a href="https://www.fib.upc.edu/ca/la-marato" target="_blank" rel="sponsored">
+              <img style="width: 50%;" loading="lazy" alt="bits" src="assets/img/challenges/logo-bitsxlamarato.png">
+            </a>
           </div>
         </div>
-        <!-- <div class="expl-container">
-          <div class="margin-bottom text-centered">
-            <a style="marginLeft: 20px" href="https://www.fib.upc.edu/" h-reflang="en" target="_blank" rel="sponsored">
-              <img style="width: 20%;" loading="lazy" alt="b2slab" src="assets/img/challenges/logo-FIB.jpg">
-            </a>
-            <a style="marginLeft: 20px" href="https://hackersatupc.org/" h-reflang="en" target="_blank" rel="sponsored">
-              <img style="width: 20%;" loading="lazy" alt="upc" src="assets/img/challenges/logo-hackersupc.png">
-            </a>
-            <a style="marginLeft: 20px" href="https://www.bsc.es/" h-reflang="en" target="_blank" rel="sponsored">
-              <img style="width: 15%;" loading="lazy" alt="BSC" src="assets/img/challenges/logo-bsc.png">
-            </a>
-            <a style="marginLeft: 20px" href="https://www.fibalumni.net/" h-reflang="en" target="_blank" rel="sponsored">
-              <img style="width: 20%;" loading="lazy" alt="upc" src="assets/img/challenges/logo-fibalumni.png">
-            </a>
-          </div>
-        </div> -->
-      </div>
-      <div class="panel large">
-        <h1><a href="https://www.fib.upc.edu/en/la-marato" target="_blank" class="external-link">All challenge descriptions</a></h1>
-      </div>
-      <div class="panel large">
-        <h1>Acces to Marenostrum+Power9 and GPU</h1>
-        <p>
-          <b><a href="https://www.fib.upc.edu/sites/fib/files/bitsxlamarato-user-reponsabilities-bsc-2020.pdf" target="_blank" class="external-link">Basic information</a></b> <br/>
-          If you want access contact a organizer in the <span>#help</span> channel on discord.
-        </p>
       </div>
     </div>
   </div>
