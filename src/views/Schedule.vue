@@ -10,20 +10,20 @@
                 <tr>
                   <th>Comença</th>
                   <th>Acaba</th>
-                  <th>Títol</th>
-                  <th>Lleida</th>
-                  <th>Barcelona</th>
-                  <th>Online</th>
+                  <th style="width: 30%">Títol</th>
+                  <th style="width: 20%">Lleida</th>
+                  <th style="width: 20%">Barcelona</th>
+                  <th style="width: 20%">Online</th>
                 </tr>
               </thead>
               <tbody>
                 <tr v-for="event in day.events" :key="event.id" :class="hasHappened(event.startTmsp)">
                   <td>{{event.startHour}}</td>
                   <td>{{event.endHour}}</td>
-                  <td class="when-small">{{event.title}}</td>
-                  <td>{{event.lleida}}</td>
-                  <td>{{event.bcn}}</td>
-                  <td>{{event.online}}</td>
+                  <td style="width: 30%">{{event.title}}</td>
+                  <td style="width: 20%">{{event.lleida}}</td>
+                  <td style="width: 20%">{{event.bcn}}</td>
+                  <td style="width: 20%">{{event.online}}</td>
                 </tr>
               </tbody>
             </table>

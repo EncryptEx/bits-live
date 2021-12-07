@@ -2,7 +2,7 @@
   <div id="schedule" class="under-header padding-bottom">
     <div class="container">
       <div class="panel large">
-        <h1><a href="https://www.fib.upc.edu/ca/la-marato/" target="_blank" class="external-link" style="color: #dddddd">All challenge descriptions</a></h1>
+        <h1><a href="https://www.fib.upc.edu/ca/la-marato/" target="_blank" class="external-link" style="color: #dddddd">Descripcions completes dels projectes</a></h1>
       </div>
       <div class="panel">
         <h1>A cavall!</h1>
@@ -67,10 +67,10 @@
           </div>
         </div>-->
         <p>
-          L'esquizofrènia, bipolaritat i depressió són malalties mentals que afecten a més del 25% de la població al llarg de la seva vida. Actualment s’ha aconseguit establir la relació entre algunes de les interaccions proteïna-proteïna (PPIs del anglès protein-protein interactions) involucrades en aquestes malalties. No obstant, per la majoria d’aquestes interaccions no se’n té una estructura experimental del complex que formen les dues proteïnes interactuants, limitant així l’estudi de les PPI. Per aquest motiu són necessaris programes de modelatge l’acoblament entre aquestes proteïnes. Malgrat això, aquests programes no són (en general) capaços d’ordenar per rellevància les diferents estructures obtingudes de manera acurada. A més a més, les mètriques que els programes per classificar les millors i pitjors prediccions no són comparables entre elles.
+          L'esquizofrènia, bipolaritat i depressió són malalties mentals que afecten a més del 25% de la població al llarg de la seva vida. Actualment, s'ha aconseguit establir la relació entre algunes de les interaccions proteïna-proteïna (PPIs del anglès <i>protein-protein interactions</i>) involucrades en aquestes malalties. No obstant això, per la majoria d'aquestes interaccions no se'n té una estructura experimental del complex que formen les dues proteïnes interactuant, limitant així l'estudi de les PPI. Per aquest motiu són necessaris programes de modelatge l'acoblament entre aquestes proteïnes. Malgrat això, aquests programes no són (en general) capaços d'ordenar per rellevància les diferents estructures obtingudes de manera acurada. A més a més, les mètriques que els programes per classificar les millors i pitjors prediccions no són comparables entre elles.
         </p>
         <p>
-          En aquest context, aquest repte té com a objectiu obtenir algoritmes d’anàlisis per tal de fer un consens entre els diferents programes de modelatge computacional d’acoblament (docking) de proteïna-proteïna a nivell estructural.
+          En aquest context, aquest repte té com a objectiu obtenir algoritmes d'anàlisis per tal de fer un consens entre els diferents programes de modelatge computacional d'acoblament (<i>docking</i>) de proteïna-proteïna a escala estructural.
         </p>
         <div class="expl-container">
           <div class="margin-bottom text-centered">
@@ -90,7 +90,7 @@
           <span>estimo-animo</span>
         </div>
         <p>
-          Com diuen les Oques Grasses «però no pots creure en tu si no t’estimes tu». Amb aquest repte busquem alguna forma que ajudi a una persona a que es pugui comunicar amb si mateixa, que es pugui donar ànims, estimar-se i animar-se en moments crítics o baixos. Aquesta eina també pot tenir la possibilitat de detectar bon humor o mal humor, i és clar, l’eina podria fins i tot ajudar a detectar problemes i reaccionar.
+          Com diuen les Oques Grasses «però no pots creure en tu si no t’estimes tu». Amb aquest repte busquem alguna forma que ajudi a una persona a què es pugui comunicar amb si mateixa, que es pugui donar ànims, estimar-se i animar-se en moments crítics o baixos. Aquesta eina també pot tenir la possibilitat de detectar bon humor o mal humor, i és clar, l’eina podria fins i tot ajudar a detectar problemes i reaccionar.
         </p>
         <div class="expl-container">
           <div class="margin-bottom text-centered">

@@ -2,7 +2,7 @@
   <div id="activities" class="under-header padding-bottom">
     <div class="container" style="text-align: justify;">
       <div class="panel large">
-        <h1 class="activity-title">ACTIVITIES</h1>
+        <h1 class="activity-title">Activitats</h1>
       </div>
       <div class="panel large">
         <h1>TEAM BUILDING</h1>
@@ -11,8 +11,8 @@
             <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
             <span>Barcelona: A500X & Google Meet</span>
           </div>
-          <p class="margin-bottom"> Si estàs buscant un equip o un membre pel teu equip, aquesta es la activitat que estàs buscaant! </p>
-          <p class="margin-bottom"> Vine a la aula si estàs a Barcelona o conectat per meet si estas online o a lleida, trobarem un equip per tu o completarem el teu! </p>
+          <p class="margin-bottom"> Si estàs buscant un equip o un membre pel teu equip, aquesta és l'activitat que estàs buscant! </p>
+          <p class="margin-bottom"> Vine a l'aula si estàs a Barcelona o connecta't per Google Meet si estàs en línia o a Lleida, trobarem un equip per tu o completarem el teu! </p>
         </div>
       </div>
       <div class="panel">
@@ -40,8 +40,28 @@
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempus sem sed dignissim dignissim. Sed diam nisi, maximus quis iaculis non, convallis nec nulla. Suspendisse felis tellus, dictum in aliquam quis, tempor nec urna. Mauris at neque eu nisi scelerisque ornare. Morbi sollicitudin, ipsum vestibulum aliquam efficitur, augue leo consequat dolor, eget sagittis nisl mi ut erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed quis nibh est. Proin ut interdum nisi. Fusce condimentum tristique commodo.</p>
         </div>
       </div>
+      <div class="panel">
+        <h1 style="text-transform: uppercase;">Construïm Lego!</h1>
+        <div>
+          <div class="margin-bottom text-centered">
+            <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
+            <span>Barcelona: Aula AXXX</span>
+          </div>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempus sem sed dignissim dignissim. Sed diam nisi, maximus quis iaculis non, convallis nec nulla. Suspendisse felis tellus, dictum in aliquam quis, tempor nec urna. Mauris at neque eu nisi scelerisque ornare. Morbi sollicitudin, ipsum vestibulum aliquam efficitur, augue leo consequat dolor, eget sagittis nisl mi ut erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed quis nibh est. Proin ut interdum nisi. Fusce condimentum tristique commodo.</p>
+        </div>
+      </div>
+      <div class="panel">
+        <h1 style="text-transform: uppercase;">Just Dance!</h1>
+        <div>
+          <div class="margin-bottom text-centered">
+            <p class="icon"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></p>
+            <span>Lleida: Aula AXXX</span>
+          </div>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempus sem sed dignissim dignissim. Sed diam nisi, maximus quis iaculis non, convallis nec nulla. Suspendisse felis tellus, dictum in aliquam quis, tempor nec urna. Mauris at neque eu nisi scelerisque ornare. Morbi sollicitudin, ipsum vestibulum aliquam efficitur, augue leo consequat dolor, eget sagittis nisl mi ut erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed quis nibh est. Proin ut interdum nisi. Fusce condimentum tristique commodo.</p>
+        </div>
+      </div>
       <div class="panel large">
-        <h1 class="activity-title">TALKS</h1>
+        <h1 class="activity-title">Xerrades</h1>
       </div>
       <div class="panel">
         <h1 style="text-transform: uppercase;">Xerrada 1</h1>

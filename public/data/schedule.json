@@ -12,20 +12,20 @@
 			[
 				{
 					"id": "0",
-					"title": "Check In",
+					"title": "Registre",
 					"startHour": "17:00",
 					"endHour": "18:00",
-					"lleida": "entrada EPS",
-					"bcn": "Entrada del edifici A5",
+					"lleida": "Entrada de la EPS",
+					"bcn": "Entrada de l'edifici A6",
 					"online": "Envia un missatge al canal #registre"
 				},
 				{
 					"id": "1",
-					"title": "Ceremonia d'obertura",
+					"title": "Cerimònia d'obertura",
 					"startHour": "18:00",
 					"endHour": "19:00",
 					"lleida": "Aula 2.03 (Sala de graus)",
-					"bcn": "Aula A500X",
+					"bcn": "Aula A600X",
 					"online": "Twitch: canals LleidaHack o HackersUPC"
 				},
 				{
@@ -33,8 +33,8 @@
 					"title": "Comença el temps de hacking",
 					"startHour": "19:00",
 					"lleida": "Aules 0.05 i 0.04",
-					"bcn": "Aules planta 1 i 2 edifici A5",
-					"online": "On sigui"
+					"bcn": "Aules de la planta 1 i 2 (Edifici A6)",
+					"online": "Allà on tu vulguis"
 				},
 				{
 					"id": "3",
@@ -42,8 +42,8 @@
 					"startHour": "19:30",
 					"endHour": "20:00",
 					"lleida": "-",
-					"bcn": "Aula A500X",
-					"online": "Enviarem un link de meet per slack"
+					"bcn": "Aula A600X",
+					"online": "Enviarem un enllaç de Google Meet per Slack"
 				},
 				{
 					"id": "4",
@@ -51,7 +51,7 @@
 					"startHour": "20:00",
 					"endHour": "21:00",
 					"lleida": "Aula 0.01",
-					"bcn": "Exterior edifici A5",
+					"bcn": "Exterior de l'edifici A6",
 					"online": "-"
 				},
 				{
@@ -60,7 +60,7 @@
 					"startHour": "20:00",
 					"endHour": "21:00",
 					"lleida": "Aula 0.02",
-					"bcn": "Aula A500X",
+					"bcn": "Aula A600X",
 					"online": "Twitch: canals LleidaHack o HackersUPC"
 				},
 				{
@@ -69,7 +69,7 @@
 					"startHour": "21:00",
 					"endHour": "22:00",
 					"lleida": "Aula 0.02",
-					"bcn": "Aula A500X",
+					"bcn": "Aula A600X",
 					"online": "Twitch: canals LleidaHack o HackersUPC"
 				},
 				{
@@ -78,7 +78,7 @@
 					"startHour": "22:00",
 					"endHour": "23:00",
 					"lleida": "Aula 0.02",
-					"bcn": "Aula A500X",
+					"bcn": "Aula A600X",
 					"online": "Twitch: canals LleidaHack o HackersUPC"
 				},
 				{
@@ -89,22 +89,22 @@
 			]
 		},
 		{
-			"name":"Saturday",
+			"name":"Dissabte",
 			"date":"11/12/2021",
 			"events":
 			[
 				{
 					"id": "9",
-					"title": "Bon dia Hackers!",
+					"title": "Bon dia, Hackers!",
 					"startHour": "09:00"
 				},
 				{
 					"id": "10",
-					"title": "Esmorçar",
+					"title": "Esmorzar",
 					"startHour": "09:00",
 					"endHour": "10:00",
 					"lleida": "Aula 0.01",
-					"bcn": "Exterior edifici A5",
+					"bcn": "Exterior de l'edifici A6",
 					"online": "-"
 				},
 				{
@@ -112,18 +112,18 @@
 					"title": "A Cavall!",
 					"startHour": "09:30",
 					"endHour": "12:30",
-					"lleida": "Juneda (més info: Activitats)",
-					"bcn": "N/A",
-					"online": "N/A"
+					"lleida": "Juneda (més informació a la pestanya d'Activitats)",
+					"bcn": "No aplica",
+					"online": "No aplica"
 				},
 				{
 					"id": "12",
 					"title": "Activitat empatia",
 					"startHour": "10:00",
 					"endHour": "13:00",
-					"lleida": "N/A",
-					"bcn": "Aula XXX",
-					"online": "N/A"
+					"lleida": "No aplica",
+					"bcn": "Aula A6XXX",
+					"online": "No aplica"
 				},
 				{
 					"id": "13",
@@ -131,17 +131,17 @@
 					"startHour": "14:00",
 					"endHour": "15:00",
 					"lleida": "Aula 0.01",
-					"bcn": "Exterior edifici A5",
+					"bcn": "Exterior de l'edifici A6",
 					"online": "-"
 				},
 				{
 					"id": "14",
-					"title": "Construim lego!",
+					"title": "Construïm Lego!",
 					"startHour": "17:00",
 					"endHour": "18:00",
-					"lleida": "N/A",
-					"bcn": "Aula XXX",
-					"online": "N/A"
+					"lleida": "No aplica",
+					"bcn": "Aula A6XXX",
+					"online": "No aplica"
 				},
 				{
 					"id": "15",
@@ -149,8 +149,8 @@
 					"startHour": "17:00",
 					"endHour": "18:00",
 					"lleida": "Aula 0.01",
-					"bcn": "N/A",
-					"online": "N/A"
+					"bcn": "No aplica",
+					"online": "No aplica"
 				},
 				{
 					"id": "16",
@@ -158,7 +158,7 @@
 					"startHour": "21:00",
 					"endHour": "22:00",
 					"lleida": "Aula 0.01",
-					"bcn": "Exterior edifici A5",
+					"bcn": "Exterior de l'edifici A6",
 					"online": "-"
 				},
 				{
@@ -169,22 +169,22 @@
 			]
 		},
 		{
-			"name":"Sunday",
+			"name":"Diumenge",
 			"date":"12/12/2021",
 			"events":
 			[
 				{
 					"id": "18",
-					"title": "Bon dia Hackers!",
+					"title": "Bon dia, Hackers!",
 					"startHour": "09:00"
 				},
 				{
 					"id": "19",
-					"title": "Esmorçar",
+					"title": "Esmorzar",
 					"startHour": "09:00",
 					"endHour": "10:00",
 					"lleida": "Aula 0.01",
-					"bcn": "Exterior edifici A5",
+					"bcn": "Exterior de l'edifici A6",
 					"online": "-"
 				},
 				{
@@ -198,30 +198,30 @@
 					"startHour": "12:30",
 					"endHour": "14:00",
 					"lleida": "Aula XXX",
-					"bcn": "Aula XXX",
-					"online": "Enviarem un link de meet per slack"
+					"bcn": "Aula A6XXX",
+					"online": "Enviarem un enllaç de Google Meet per Slack"
 				},
 				{
 					"id": "22",
-					"title": "Lunch",
+					"title": "Dinar",
 					"startHour": "14:00",
 					"endHour": "15:00",
 					"lleida": "Aula 0.01",
-					"bcn": "Exterior edifici A5",
+					"bcn": "Exterior de l'edifici A6",
 					"online": "-"
 				},
 				{
 					"id": "23",
-					"title": "Ceremonia de clausura",
+					"title": "Cerimònia de clausura",
 					"startHour": "15:00",
 					"endHour": "16:00",
 					"lleida": "Aula 2.03 (Sala de graus)",
-					"bcn": "Aula A500X",
+					"bcn": "Aula A600X",
 					"online": "Twitch: canals LleidaHack o HackersUPC"
 				},
 				{
 					"id": "24",
-					"title": "Fins la propera!",
+					"title": "Fins a una altra!",
 					"startHour": "16:00"
 				}
 			]
